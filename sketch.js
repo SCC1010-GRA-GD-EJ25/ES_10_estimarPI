@@ -24,7 +24,7 @@ function setup() {
 
 }
 function ejecutar(){
-  puntos = int(inputPuntos.Value())
+  puntos = int(inputPuntos.value())
   contador = 0
   redraw()
 
